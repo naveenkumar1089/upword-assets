@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="183.93" height="143.094" viewBox="0 0 183.93 143.094">
+  <defs>
+    <filter id="Fill_20" x="55.733" y="70.998" width="41.849" height="39.805" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_46" data-name="Group 46" transform="translate(-690.93 -126.781)">
+    <path id="Fill_1" data-name="Fill 1" d="M157.542,0a71,71,0,0,0-44.484,15.585H93.33a4.675,4.675,0,0,0,0,9.351h12.982a4.671,4.671,0,0,1,3.29,7.976,4.632,4.632,0,0,1-3.29,1.375H79.66a4.675,4.675,0,0,0,0,9.351H91.765a71.676,71.676,0,0,0-5.678,28.052,72.7,72.7,0,0,0,.78,10.632q.322,2.174.774,4.308c8.792-1.35,18.118-2.434,27.855-3.226l.733.67.69-.782c11.7-.913,23.975-1.4,36.638-1.4A428.452,428.452,0,0,1,227.164,87.9a71.894,71.894,0,0,0,1.653-11.118q.182-2.525.18-5.093A71.571,71.571,0,0,0,157.542,0Z" transform="translate(632.965 126.781)" fill="#393b3e" fill-rule="evenodd"/>
+    <path id="Fill_3" data-name="Fill 3" d="M7.545,150H4.721a4.77,4.77,0,0,0,0,9.54H7.545a4.77,4.77,0,0,0,0-9.54Z" transform="translate(690.93 10.851)" fill="#393b3e" fill-rule="evenodd"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(720.508 208.775)">
+      <g id="Group_41" data-name="Group 41">
+        <path id="Fill_5" data-name="Fill 5" d="M284.577,384.619a4.666,4.666,0,0,1-4.659,4.646H250.159a4.646,4.646,0,1,0,0,9.292h5.529a4.646,4.646,0,1,1,0,9.292H242.975A71.53,71.53,0,0,1,130.225,365.7c8.79-1.341,18.114-2.419,27.848-3.206l.733.666.69-.777c11.694-.908,23.969-1.391,36.629-1.391a430.9,430.9,0,0,1,73.59,5.972,70.4,70.4,0,0,1-4.388,13.005h14.592a4.671,4.671,0,0,1,4.659,4.646Z" transform="translate(-130.225 -360.996)" fill="#393b3e" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <path id="Fill_8" data-name="Fill 8" d="M369.75,326.979a74.641,74.641,0,0,1-1.651,11.33,419.54,419.54,0,0,0-73.51-6.124c-12.646,0-24.908.5-36.589,1.426l8.1-9.386,12.6,8.224,17.059-4.71,29.347,4.447,12.74-4.447,3.227,4.447,7.7-5.714,7.194,6.594L367.314,324Z" transform="translate(491.53 -123.628)" fill="#1e1f24" fill-rule="evenodd"/>
+    <path id="Fill_10" data-name="Fill 10" d="M360.386,198.926a28.063,28.063,0,0,0,5.028-16.206c-.132-16.558-14.882-29.863-32.946-29.719s-32.6,13.685-32.467,30.242,14.883,29.863,32.946,29.719a34.744,34.744,0,0,0,17.5-4.813l13.5,3.178Z" transform="translate(459.069 8.532)" fill="#d8dbea" fill-rule="evenodd"/>
+    <path id="Fill_12" data-name="Fill 12" d="M378.814,270.38a3.407,3.407,0,1,1-3.434-3.38A3.407,3.407,0,0,1,378.814,270.38Z" transform="translate(403.424 -79.574)" fill="#bec0d6" fill-rule="evenodd"/>
+    <path id="Fill_14" data-name="Fill 14" d="M432.814,270.379A3.407,3.407,0,1,1,429.38,267,3.407,3.407,0,0,1,432.814,270.379Z" transform="translate(361.688 -79.574)" fill="#bec0d6" fill-rule="evenodd"/>
+    <path id="Fill_16" data-name="Fill 16" d="M486.814,270.38A3.407,3.407,0,1,1,483.38,267,3.408,3.408,0,0,1,486.814,270.38Z" transform="translate(319.953 -79.575)" fill="#bec0d6" fill-rule="evenodd"/>
+    <path id="Fill_18" data-name="Fill 18" d="M253.363,366l-.661.681-.7-.584C252.452,366.062,252.908,366.03,253.363,366Z" transform="translate(496.167 -156.088)" fill="#1e1f24" fill-rule="evenodd"/>
+    <g transform="matrix(1, 0, 0, 1, 690.93, 126.78)" filter="url(#Fill_20)">
+      <path id="Fill_20-2" data-name="Fill 20" d="M285,349.9a10.182,10.182,0,0,0,1.881,5.874l-1.262,4.524,4.914-1.2a12.69,12.69,0,0,0,6.391,1.7c6.586,0,11.924-4.881,11.924-10.9S303.51,339,296.924,339,285,343.881,285,349.9Z" transform="translate(-220.27 -262)" fill="#915ff6" fill-rule="evenodd"/>
+    </g>
+    <path id="Fill_22" data-name="Fill 22" d="M351,382.363A1.363,1.363,0,1,0,352.363,381,1.362,1.362,0,0,0,351,382.363Z" transform="translate(419.654 -167.681)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Fill_24" data-name="Fill 24" d="M333,382.363A1.363,1.363,0,1,0,334.363,381,1.363,1.363,0,0,0,333,382.363Z" transform="translate(433.565 -167.681)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Fill_26" data-name="Fill 26" d="M312,382.363A1.363,1.363,0,1,0,313.363,381,1.363,1.363,0,0,0,312,382.363Z" transform="translate(449.795 -167.681)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Fill_28" data-name="Fill 28" d="M154.619,324.441c-9.733.793-19.057,1.879-27.845,3.231q-.452-2.136-.773-4.315L141.065,312Z" transform="translate(593.549 -114.354)" fill="#1e1f24" fill-rule="evenodd"/>
+    <path id="Fill_30" data-name="Fill 30" d="M371.149,461.385c0,1.317-11.9,2.385-26.575,2.385S318,462.7,318,461.385,329.9,459,344.575,459,371.149,460.068,371.149,461.385Z" transform="translate(445.158 -227.965)" fill="#1e1f24" fill-rule="evenodd"/>
+    <path id="Fill_32" data-name="Fill 32" d="M727.77,534.54a4.77,4.77,0,1,1,4.77-4.77A4.784,4.784,0,0,1,727.77,534.54Z" transform="translate(132.147 -278.974)" fill="#393b3e" fill-rule="evenodd"/>
+  </g>
+</svg>
