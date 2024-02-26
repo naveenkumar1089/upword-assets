@@ -1,0 +1,2 @@
+# upword-assets
+upword assets
